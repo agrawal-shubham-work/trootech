@@ -1,0 +1,13 @@
+.react-bootstrap-table table {
+  width: 80%;
+  margin: auto;
+}
+
+.actionContainer {
+  display: flex;
+}
+
+.customIcon {
+  cursor: pointer;
+  margin-right: 5px;
+}
